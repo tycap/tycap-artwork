@@ -7,7 +7,7 @@ The piece of art that is within the repository is something that I created. It's
 [Instagram](https://www.instagram.com/nyjetsgameplan/)
 [Podcast](https://podcasts.apple.com/us/podcast/the-gameplan-a-ny-jets-audio-experience/id1545287073)
 
-##License
+# License
 
 Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
